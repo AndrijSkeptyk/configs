@@ -1,0 +1,10 @@
+export PATH="$HOME/.local/bin:$PATH"
+export EDITOR=/usr/bin/vim
+export VISUAL=/usr/bin/gvim
+export PAGER=less
+export LESS_TERMCAP_se="[0m"
+export LESS_TERMCAP_so="[01;47;34m"
+export LESS_TERMCAP_mb="[01;32m"
+export LESS_TERMCAP_me="[0m"
+export LESS_TERMCAP_md="[01;32m"
+export TERM=alacritty
